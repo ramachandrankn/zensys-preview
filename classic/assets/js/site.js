@@ -70,63 +70,12 @@
     });
   });
 
-  // Home page product showcase: tabs that advance on their own until the visitor picks one.
-  // The progress bar's animation drives the timing, so pausing it (hover, focus, off-screen) pauses the advance.
-  var sc = document.querySelector('.showcase');
-  if (sc) {
-    var tabs = [].slice.call(sc.querySelectorAll('.sc-tab'));
-    var panels = [].slice.call(sc.querySelectorAll('.sc-panel'));
-    var tabList = sc.querySelector('.sc-tabs');
-    var current = 0, hovering = false, offscreen = true;
-    sc.classList.add('ready');
-
-    function select(i, focus) {
-      current = (i + tabs.length) % tabs.length;
-      tabs.forEach(function (t, n) {
-        var on = n === current;
-        t.setAttribute('aria-selected', on ? 'true' : 'false');
-        t.tabIndex = on ? 0 : -1;
-        panels[n].classList.toggle('is-active', on);
-      });
-      var t = tabs[current];
-      if (tabList.scrollWidth > tabList.clientWidth) tabList.scrollTo({ left: t.offsetLeft - 16, behavior: 'smooth' });
-      if (focus) t.focus();
-    }
-    function stopAuto() { sc.classList.remove('auto'); }
-    function syncPause() { sc.classList.toggle('paused', hovering || offscreen); }
-
-    tabs.forEach(function (t, n) {
-      t.addEventListener('click', function () { stopAuto(); select(n); });
-    });
-    tabList.addEventListener('keydown', function (e) {
-      var k = e.key, next = null;
-      if (k === 'ArrowRight' || k === 'ArrowDown') next = current + 1;
-      else if (k === 'ArrowLeft' || k === 'ArrowUp') next = current - 1;
-      else if (k === 'Home') next = 0;
-      else if (k === 'End') next = tabs.length - 1;
-      if (next === null) return;
-      e.preventDefault(); stopAuto(); select(next, true);
-    });
-
-    // Phones get swipeable tabs only: no progress bar there, so content shouldn't change under the reader.
-    if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches && window.matchMedia('(min-width: 861px)').matches) {
-      sc.style.setProperty('--sc-ms', '7000ms');
-      sc.classList.add('auto');
-      sc.addEventListener('animationend', function (e) {
-        if (e.animationName === 'sc-fill' && sc.classList.contains('auto')) select(current + 1);
-      });
-      sc.addEventListener('mouseenter', function () { hovering = true; syncPause(); });
-      sc.addEventListener('mouseleave', function () { hovering = false; syncPause(); });
-      sc.addEventListener('focusin', function () { hovering = true; syncPause(); });
-      sc.addEventListener('focusout', function () { hovering = false; syncPause(); });
-      if ('IntersectionObserver' in window) {
-        new IntersectionObserver(function (entries) {
-          offscreen = !entries[0].isIntersecting; syncPause();
-        }, { threshold: 0.25 }).observe(sc);
-      } else { offscreen = false; }
-      syncPause();
-    }
-  }
+  // "What brings you here?" links pre-select the matching option in the enquiry form
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('[data-interest]'); if (!a) return;
+    var sel = document.querySelector('.enquiry select[name=interest]');
+    if (sel) sel.value = a.getAttribute('data-interest');
+  });
 
   // Blog filter
   var filter = document.querySelector('.filter');
