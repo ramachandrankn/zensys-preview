@@ -204,16 +204,6 @@ p{margin:0 0 1em}
 .hero-badge strong{font-size:1.5rem;font-weight:800;letter-spacing:-.02em;color:var(--red)}
 .hero-badge-1{right:-16px;top:24px}
 .hero-badge-2{left:-32px;bottom:32px}
-:is(.hero-style-fluid,.hero-style-cloud) .site-header:not(.scrolled){background:transparent;border-color:transparent;box-shadow:none;backdrop-filter:none}
-:is(.hero-style-fluid,.hero-style-cloud) .site-header:not(.scrolled) .brand{color:#fff}
-:is(.hero-style-fluid,.hero-style-cloud) .site-header:not(.scrolled) .brand img{filter:brightness(0) invert(1)}
-:is(.hero-style-fluid,.hero-style-cloud) .site-header:not(.scrolled) .partner-badge{border-color:rgba(255,255,255,.25)}
-:is(.hero-style-fluid,.hero-style-cloud) .site-header:not(.scrolled) .menu-btn{color:#fff;border-color:rgba(255,255,255,.6)}
-@media (min-width:961px){
-  :is(.hero-style-fluid,.hero-style-cloud) .site-header:not(.scrolled) .nav>ul>li>a{color:#fff}
-  :is(.hero-style-fluid,.hero-style-cloud) .site-header:not(.scrolled) .nav .nav-cta>a{background:transparent;border:2px solid rgba(255,255,255,.8);padding:9px 20px;box-shadow:none}
-  :is(.hero-style-fluid,.hero-style-cloud) .site-header:not(.scrolled) .nav .nav-cta>a:hover{background:#fff;color:var(--ink)}
-}
 @media (max-width:900px){
   .hero-fluid .wrap{grid-template-columns:1fr}
   .hero-photo{max-width:560px;margin:28px auto 0}
