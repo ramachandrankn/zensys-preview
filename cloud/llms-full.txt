@@ -1,0 +1,230 @@
+# Zensys: full service information
+
+Zensys is a Chennai-based software company, founded in 2008, that implements Bigin by Zoho CRM, payroll software (on-premises and cloud) and bulk SMS platforms for businesses across India. It is an authorized Zoho partner and has completed 200+ payroll installations, with a particular focus on the automobile and manufacturing sector.
+
+## Bigin by Zoho CRM, set up for your business
+URL: https://zensys.in/service/bigin-by-zoho-crm/
+
+Bigin by Zoho CRM implementation by Zensys, an authorized Zoho partner in Chennai. Pipelines, WhatsApp and email integration, automation, data migration and training.
+
+**Bigin by Zoho CRM** is Zoho’s pipeline-based CRM for small businesses. It keeps leads, deals, calls, emails and WhatsApp chats in one place and automates follow-ups. **Zensys is an authorized Zoho partner** in Chennai: we customise Bigin to your process, migrate data from spreadsheets or other CRMs, train your team and support you after go-live. You can also buy Bigin licences through us.
+
+- Pipeline management: Visual pipelines for each team or product, with connected pipelines that follow a customer from enquiry to delivery.
+- Contacts and customers: Every lead, contact and company with its full history. Import spreadsheets and capture enquiries with web forms.
+- Multichannel communication: Built-in telephony, WhatsApp, email and mass email, plus meetings through Zoho Meeting, Microsoft Teams or Zoom.
+- Automation: Workflow rules for reminders, tasks and emails, plus Zoho Flow and Zapier integrations.
+- Team collaboration: Activities, calendar view, @mentions, team pipelines and Microsoft Teams integration.
+- Data administration: Roles and profiles, audit logs, stage transition rules and duplicate management.
+- Dashboards: Track pipeline value and team performance, with Zoho Analytics for deeper reports.
+- Mobile apps: Access customers and deals on Android and iOS while you are on the move.
+
+## How we implement Bigin
+
+1. **Requirement discussion** to understand how your team sells today.
+2. **Live product demo** showing how Bigin fits your business.
+3. **Setup and customisation** of modules, fields and pipelines.
+4. **Data migration** of contacts and records from spreadsheets or other CRMs.
+5. **User training** for daily use.
+6. **Go live** and launch the CRM.
+7. **Ongoing support** whenever you need it.
+
+Ready to try it? [Start a Bigin account through Zensys](https://store.zoho.in/ResellerCustomerSignUp.do?id=368c026bf1b9eb87fb779ec26c8a9316) or [book a demo](/contact-us/).
+
+Q: What is Bigin by Zoho CRM?
+A: Bigin is a simple, pipeline-centric CRM from Zoho built for small businesses. It manages leads, deals, follow-ups and customer communication in one place without the complexity of a full enterprise CRM.
+
+Q: Is Zensys an authorized Zoho partner?
+A: Yes. Zensys is an authorized Zoho partner in Chennai. We implement, customise and support Bigin, and you can purchase Zoho licences through us.
+
+Q: Can you move our data from Excel or another CRM?
+A: Yes. We clean, map and import your spreadsheet or existing CRM data, merging duplicates so you start with a reliable customer database.
+
+Q: Does Bigin work with WhatsApp?
+A: Yes. Bigin includes WhatsApp integration, so conversations stay attached to the customer record.
+
+Q: What does the implementation include?
+A: Requirement discussion, a live demo, setup and customisation of modules, fields and pipelines, data migration, user training, go-live and ongoing support.
+
+## Authorized Zoho partner in Chennai
+URL: https://zensys.in/services/zoho-authorized-partner-in-chennai/
+
+Zensys is an authorized Zoho partner in Chennai. We implement Bigin by Zoho CRM and connect it with payroll and SMS, with migration, training and ongoing support.
+
+**Zensys is an authorized Zoho partner based in Guindy, Chennai.** We implement and customise **Bigin by Zoho CRM**, migrate your data, train your team and provide ongoing support. Because Zensys also provides payroll software and SMS services, businesses can work with one partner for sales, payroll and customer communication instead of several vendors.
+
+- CRM implementation expertise: Bigin set up correctly from the start, with modules, fields and pipelines configured for your process.
+- Business-specific customisation: Every setup is configured around your actual workflow, not a generic template.
+- Data migration: Records moved from spreadsheets, legacy systems or another CRM without disrupting operations.
+- Training and onboarding: Hands-on training so your team uses the system confidently from day one.
+- One partner, several systems: CRM, payroll and SMS from one team, with a single point of contact for support.
+- Licences through Zensys: Buy and renew Zoho licences through your partner.
+
+## How implementation works
+
+The same process applies whichever solution, or combination of solutions, you choose:
+
+1. **Requirement discussion** about your current workflow and challenges.
+2. **Live product demo** showing exactly how the solution would work for you.
+3. **Setup and customisation** of modules, fields and workflows.
+4. **Data migration** from spreadsheets or other systems.
+5. **User training** so your team is confident from day one.
+6. **Go live** and start working from the new system.
+7. **Ongoing support** for questions and adjustments.
+
+See what Bigin can do on the [Bigin by Zoho CRM page](/service/bigin-by-zoho-crm/), or [book a free consultation](/contact-us/).
+
+Q: What does Zensys do as an authorized Zoho partner?
+A: Zensys implements, customises and supports Bigin by Zoho CRM, including data migration and user training, and can supply Zoho licences.
+
+Q: Can Zensys set up CRM, payroll and SMS together?
+A: Yes. Many businesses combine Bigin CRM with Zensys payroll software and SMS, and we set them up to work together.
+
+Q: Which businesses do you work with?
+A: Startups, SMEs and established companies across manufacturing, retail, healthcare, education, finance, logistics, IT and professional services.
+
+Q: How long does implementation take?
+A: It depends on the scope and number of solutions. We agree a timeline after the requirement discussion.
+
+Q: Where is Zensys located?
+A: Our office is at INNOV8 SKCL Tech Square, Lawsar Street, SIDCO Industrial Estate, Guindy, Chennai 600032. We serve clients across Tamil Nadu and India.
+
+## On-premises payroll software
+URL: https://zensys.in/service/payroll-software-on-premises/
+
+On-premises payroll software with biometric time office, leave, employee self-service and PF, ESI, PT, TDS compliance. 200+ installations since 2008. Chennai, Tamil Nadu.
+
+**Zensys On-Premises Payroll** is payroll and time office software installed inside your own network. It calculates salaries, pulls attendance from biometric devices, tracks leave and shifts, and produces PF, ESI, PT and TDS reports. Zensys has deployed it in **200+ installations since 2008**, with a strong track record in the automobile sector.
+
+- Payroll processing: Monthly salary processing with deductions and overtime worked out automatically, and a payslip for every employee.
+- Time office with biometrics: Attendance flows in from biometric devices. Shifts, late entries and overtime are worked out before the pay run, even in multi-shift setups.
+- Leave tracking: Leave types, balances and approvals kept in the same system, so loss of pay is calculated without a separate register.
+- Employee self-service: Employees view payslips, apply for leave and update personal details without calling HR.
+- Statutory compliance: PF, ESI, professional tax and TDS calculated automatically, with statutory forms and reports kept up to date.
+- Integrations: Supports integrations with other enterprise systems and applications when your setup needs it.
+
+## Who it's for
+
+On-premises payroll suits organisations that want full control over where salary and employee data lives: manufacturing plants, automobile component makers, financial services firms and companies with an in-house IT team. It also works well where attendance comes from several biometric devices across multiple shifts.
+
+## How we implement it
+
+1. **Requirement discussion** to understand your salary structure, shifts and devices.
+2. **Live demo** of how the software fits your process.
+3. **Setup and customisation** on your server: salary heads, leave rules and approvals.
+4. **Data migration** of employee records from your current system.
+5. **User training** for HR and payroll staff.
+6. **Go live**, with ongoing support from our team.
+
+Not sure which deployment fits? Read our comparison of [on-premises vs cloud payroll](/blog/on-premise-vs-cloud-payroll-software-pick-the-right-for-business/).
+
+Q: What is on-premises payroll software?
+A: Payroll software that is installed and runs on your company's own server or network, instead of on a vendor's cloud. Your payroll and employee data stays inside your premises and under your IT policies.
+
+Q: Does Zensys payroll integrate with biometric attendance machines?
+A: Yes. The time office module takes punches from biometric devices, applies shift rules, late marks and overtime, and passes attendance directly to the monthly payroll.
+
+Q: Which statutory deductions does it handle?
+A: Provident Fund (PF), Employee State Insurance (ESI), Professional Tax (PT) and TDS, along with the statutory forms and reports needed for filing and audits.
+
+Q: Can it handle multiple shifts and contract labour?
+A: Yes. Multi-shift attendance, overtime and leave are managed in the same system, which is why the software has a long track record in automobile and manufacturing plants.
+
+Q: How many companies use Zensys payroll?
+A: Zensys has completed more than 200 payroll installations across industries since 2008.
+
+Q: Should we choose on-premises or cloud payroll?
+A: Choose on-premises if you want payroll data on your own server, need deep biometric integration on the shop floor, or have strict internal data policies. Choose [cloud payroll](/service/cloud-based-software/) if you want access from anywhere without maintaining a server. Zensys offers both.
+
+## Cloud payroll and HRMS software
+URL: https://zensys.in/service/cloud-based-software/
+
+Cloud payroll and HRMS software: mobile attendance, leave, appraisals, onboarding, full and final settlement and statutory compliance, accessible from anywhere.
+
+**Zensys Cloud Payroll** is online payroll and HR software for Indian businesses. It processes salaries, records attendance through a mobile app or biometric devices, manages leave, appraisals, onboarding and full and final settlement, and keeps PF, ESI, PT and TDS calculations up to date. It is accessible from anywhere and suits multi-branch and growing teams.
+
+- Mobile attendance app: Employees mark attendance from their phone in real time, useful for field staff and multiple locations.
+- Time and attendance: Works with biometric or online attendance systems and feeds working hours straight into payroll.
+- Cloud payroll processing: Salaries calculated automatically, in line with government statutory norms, with payslips for every employee.
+- Leave management: Employees apply for leave and managers approve it online. Balances update and flow into payroll.
+- Performance appraisal: A structured, transparent appraisal process kept alongside the employee’s record.
+- Onboarding: Collect new-joiner details and documents and set up salary structures from day one.
+- Full and final settlement: F&F calculated from attendance, leave and salary already in the system when someone leaves.
+- Statutory compliance: Labour law and statutory requirements applied and reported, reducing compliance risk.
+
+## Who it's for
+
+Cloud payroll suits growing companies, startups and businesses with branches, field staff or remote HR teams. It removes the need for an in-house server and gives managers access from wherever they are.
+
+## How we implement it
+
+1. **Requirement discussion** about your pay structure, locations and attendance methods.
+2. **Live demo** on a setup close to your own.
+3. **Setup and customisation** of salary heads, leave policies and approvals.
+4. **Data migration** of employee records and balances.
+5. **User training** for HR, managers and employees on the mobile app.
+6. **Go live**, with ongoing support from our team.
+
+Comparing options? See [on-premises vs cloud payroll](/blog/on-premise-vs-cloud-payroll-software-pick-the-right-for-business/).
+
+Q: What is cloud payroll software?
+A: Payroll and HR software that runs online. Authorised users log in from a browser or phone to process salaries, track attendance and leave, and download reports, without installing software or maintaining a server.
+
+Q: Can employees mark attendance from their phone?
+A: Yes. The mobile attendance app records attendance in real time and sends it straight to payroll. It is useful for field teams, branches and hybrid staff.
+
+Q: Does cloud payroll handle full and final settlement?
+A: Yes. When an employee leaves, the system calculates the settlement using the attendance, leave and salary records already on file.
+
+Q: Is cloud payroll suitable for small businesses and startups?
+A: Yes. There is no server to buy, setup is quick, and the system scales as you add employees and locations.
+
+Q: Is payroll data secure in the cloud?
+A: Access is controlled by user roles, and data is protected with encryption, backups and regular updates.
+
+Q: Is there an on-premises version?
+A: Yes. If you prefer to keep payroll on your own server, see [on-premises payroll software](/service/payroll-software-on-premises/).
+
+## Bulk SMS, OTP and transactional SMS
+URL: https://zensys.in/service/sms-software/
+
+Bulk SMS, OTP and transactional SMS for businesses in Chennai and across India. API integration with CRM and ERP, delivery reports and 24/7 support. SMS services since 2007.
+
+**Zensys SMS Software** is a messaging platform for businesses that need to send **transactional alerts, OTPs and promotional SMS**. It integrates with your CRM, ERP and applications so messages go out automatically, and a reporting dashboard shows delivery and failures. Zensys has delivered SMS services to corporates since 2007, with competitive pricing and 24/7 support.
+
+- System integration: Connect the SMS platform to your existing systems and send messages automatically from your workflows.
+- OTP and alerts: Instant one-time passwords and real-time alerts for logins, payments and account activity.
+- Marketing campaigns: Targeted promotional campaigns to boost customer engagement and brand visibility.
+- Reporting dashboard: Delivery, failures and campaign performance in one place, so you know what actually reached customers.
+- Secure, scalable platform: Built to handle high message volumes while keeping your data secure.
+- Affordable pricing: Competitive rates on both promotional and transactional SMS.
+
+## Who uses it
+
+Banks and financial services for OTPs and transaction alerts, retailers and e-commerce for order updates and offers, schools and colleges for fee and exam notices, hospitals for appointment reminders, and companies for internal alerts to employees and shift teams.
+
+## Why businesses choose Zensys for SMS
+
+- **Trusted by corporates** for bulk communication and customer engagement
+- **OTP and alert delivery** widely used for instant notifications
+- **Easy integrations** with applications, CRMs and ERPs
+- **Quick, reliable delivery** with industry-grade uptime
+- **Cost-effective** for both marketing and operational messages
+
+Q: What is the difference between transactional and promotional SMS?
+A: Transactional SMS is triggered by a customer action or system event, such as an OTP, order confirmation or payment alert. Promotional SMS is used for offers and marketing campaigns sent to a list of customers.
+
+Q: Can the SMS platform integrate with our CRM or ERP?
+A: Yes. The platform connects with CRMs, ERPs and other business applications so messages are sent automatically when something happens in your system.
+
+Q: Do we get delivery reports?
+A: Yes. The reporting dashboard shows delivered, pending and failed messages and campaign performance.
+
+Q: Is support available outside office hours?
+A: Yes. Zensys provides 24/7 support for its SMS service.
+
+Q: How long has Zensys provided SMS services?
+A: Zensys has delivered SMS services to corporates and individuals since 2007.
+
+## Clients
+
+Valeo, TAFE, Exide, Foxconn, Angel Broking, Casagrand, Cox & Kings, Vembu, B.S. Abdur Rahman University, Antony, Arinos, Arthamoney, Base, BMC, Broomfield, Butterfly, CADD Centre, CollabNet, ColorHomes, Dr. Gupta, Eanta, EDAC, EFX, Emaar Electricals, DSAC, CA Datacard, Emantras, Fastrack, Fulcrum, Giri, Hare, IEC Abroad, Greynium, Image, IMOP, IWIN, KfJ, KiKUWA, Krizano, Krizz, Link Multitech, Luftek, Lycatel, Magindhara, Minister White, Mold-Tek, Pesco-Beam, Pension Centre, Plintron, Rebar D&D, Shanthi Jewellery, Snap Fitness, Stam Interactive, Sundaram Health Centre, Sunmangala, Talema, Tiens, Traixtional, TVH, U, Ultra Designer Tiles, Unique Inflatables, United, Varity Services, Veggi Bazaar, Veryx, VGP Housing, Vista, VST Group, W2 Wealthzone, Wealth Advisors, Alcatel-Lucent
